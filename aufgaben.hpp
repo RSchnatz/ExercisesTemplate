@@ -1,23 +1,23 @@
 #pragma once // prevents multiple definitions
-
 #include <iostream> // print library
 
-// Exercise 1: implements function 'add', that adds two numbers
+// Aufgabe 1: Funktion schreiben, die zwei Zahlen a und b addiert.
 int add(int a, int b);
 
-// Exercise 2: implements function 'mul', that multiplies two numbers
+// Aufgabe 2: Funktion schreiben, die zwei Zahlen a und b multipliziert.
 int mul(int a, int b);
 
 // ===============
-// implementations
+// Implementierung
 
+// Aufgabe 1
 int add(int a, int b)
 {
-   return 0; // TODO: fix
+   return 0; // TODO: Hier die Funktion implementieren.
 }
 
-// Exercise 2: implements function 'mul', that multiplies two numbers
+// Aufgabe 2
 int mul(int a, int b)
 {
-   return 0; // TODO: fix
+   return 0; // TODO: Hier die Funktion implementieren.
 }
