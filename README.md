@@ -1,4 +1,4 @@
-# Uebungsaufgaben zu Funktionen
+# Übungsaufgaben zu Funktionen
 
 ## Anleitung
 - Implementiert die jeweiligen Funktionen in `aufgaben.hpp`!
